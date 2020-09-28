@@ -1,0 +1,27 @@
+NAME: KENNEDY MOSOTI
+
+1) A,D,F,G,I
+
+2) B,C
+
+3) git help -a
+
+4A) Assembly.
+4B) Assembly doesnt not need to be interpreted.
+
+5A) I think the oldest programming language still used today is FORTRAN.
+5B) FORTRAN is 7 decades old. (1950s)
+
+6A) Assembly.
+6B) These languages are considered 3rd generational languages.
+
+7) 1970s, 1980s, 1980s, 1990s.
+
+8) An ancestor to the C programming language is the B programming language.
+
+9) Ancestor to C++ is C.
+
+10) Ancestor to Matlab is based off of C++ while python is based off of C.
+
+11) An exponential curve would would have a constant base and would need to have the X axis on a log scale.
+	While a power-law curve would have a changing exponent and would need to have both axis on a log scale.
