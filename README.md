@@ -16,9 +16,10 @@ Position Title: Student
 
 Course Webpage: [1301DATA](https://www.cdslab.org/IDS2020F/)
 
-PHOTO:\n
+PHOTO:
         
-        ![My Picture](https://github.com/kmosoti/1301_DATA/blob/master/images/MyPic.png)
+
+![My Picture](https://github.com/kmosoti/1301_DATA/blob/master/images/MyPic.png)
 
 ## Description of the project's content
 This repository contains my homework, quizzes, and virtually every effort that I have made
