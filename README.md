@@ -18,7 +18,9 @@ Course Webpage: [1301DATA](https://www.cdslab.org/IDS2020F/)
 
 PHOTO:
 
-<div align="center">![My Picture](https://github.com/kmosoti/1301_DATA/blob/master/images/MyPic.png)</div>
+<div align="center">
+![My Picture](https://github.com/kmosoti/1301_DATA/blob/master/images/MyPic.png)
+</div>
         
 ---
 
