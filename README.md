@@ -18,7 +18,6 @@ Course Webpage: [1301DATA](https://www.cdslab.org/IDS2020F/)
 
 PHOTO:
         
-
 ![My Picture](https://github.com/kmosoti/1301_DATA/blob/master/images/MyPic.png)
 
 ## Description of the project's content
