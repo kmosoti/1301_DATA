@@ -102,7 +102,7 @@ $ echo "This is some example text for branch test2" > homework/VCS/test.txt
 ```
 
 Part 2G)
-``bash
+```bash
 $ git checkout test1
 Switched to branch 'test1'
 M       homework/VCS/test.txt
