@@ -92,4 +92,22 @@ To https://github.com/kmosoti/1301_DATA.git
 ```
 
 Part 2E)
-''
+The file couldnt be found because it was made in the test1 branch not test2.
+
+Part 2F)
+```bash
+$ touch homework/VCS/test.txt
+
+$ echo "This is some example text for branch test2" > homework/VCS/test.txt
+```
+
+Part 2G)
+```bash
+$ git checkout test1
+Switched to branch 'test1'
+M       homework/VCS/test.txt
+
+```
+I didnt get an error btw.
+
+Part 2H)
