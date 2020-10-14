@@ -1,0 +1,10 @@
+1) Experiment, Theory, Computation+Data
+
+2) Predictive computing, Numerical simulation, machine learning/data-driven discovery
+
+3) Statement - All dogs are usually green.
+   Deductive Reasoning: If Fido is a dog, then he is most likely green.
+   Plausible Reasoning: If Fido is green, then he is a dog.
+ 
+4) SEE SEPARATE IMAGE
+5) SEE SEPARATE IMAGE
