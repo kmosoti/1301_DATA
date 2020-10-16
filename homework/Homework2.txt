@@ -1,0 +1,20 @@
+1. Name three pillars of Science.
+	EXPERIMENT, THEORY, COMPUTATION
+	
+2. Name and briefly describe three different applications of Computational and Data Sciences.
+		Healthecare: Early detection of life threatening ailments
+		Gaming: Simulating Reality and how physics would behave in the realworld
+		Fraud: Detecting fraud amongst a mass of data
+	
+3. Name the two types of scientific reasoning.
+		Deductive Reasoning: If the ground is shaking then its an earthquake
+		Plausible Reasoning: If there's an earthquake then the ground will shake
+
+4. Policeman, jewelry, and burglar.
+		If the suspect is dressed like a robber, then he is most likely the one robbing the store.
+		
+5. Logical Implication.
+		**LOOK FOR HMWK2_p5**
+
+6. Logical product denial.
+		**LOOK FOR HMWK2_p6**
