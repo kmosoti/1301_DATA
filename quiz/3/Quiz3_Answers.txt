@@ -13,8 +13,8 @@
 4) When data is scarce, which school of probability theory is the most useful for scientific inference?
 	- Subjective/Bayesion
 5) Name a prominent figure in each of the Frequentist and Bayesian schools of thought.
-	- Frequentist: Egon Pearson
 	- Bayesian: Richard Cox
+	- Frequentist: Egon Pearson
 6) NAND equivalence.
 		(A↑A)↑(((A↑B)↑(A↑B))↑((A↑B)↑(A↑B)))= A
 		  A' ↑(		(A+B)   ↑	  (A+B)	  )= A
