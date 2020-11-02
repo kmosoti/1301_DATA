@@ -1,0 +1,25 @@
+F1(A,B) = A ↑ B
+F2(A,B) = (AB)'
+F3(A,B) = A' + B'
+
+Z1(A,B) = A ↓ B
+Z2(A,B) = (A+B)'
+Z3(A,B) = A'*B'
+
+
+NAND TRUTH COMPARISION
+-----------------------------------
+A,B		TT	|	FF	|	FT	|	TF	
+-----------------------------------
+F1(A,B)	F	|	T	|	T	|	T
+F2(A,B)	F	|	T	|	T	|	T
+F3(A,B)	F	|	T	|	T	|	T
+
+NOR TRUTH COMPARISON
+-----------------------------------
+A,B		TT	|	FF	|	FT	|	TF	
+-----------------------------------
+F1(A,B)	F	|	T	|	F	|	F
+F2(A,B)	F	|	T	|	F	|	F
+F3(A,B)	F	|	T	|	F	|	F
+

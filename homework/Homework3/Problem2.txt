@@ -1,0 +1,13 @@
+F1(A,B) = A*B
+F1(A,B) = A*B'
+F1(A,B) = A'*B
+F1(A,B) = A'*B'
+
+TRUTH TABLE
+-----------------------------------
+A,B		TT	|	FF	|	FT	|	TF	
+-----------------------------------
+f1(A,B)	T	|	F	|	F	|	F
+f2(A,B)	F	|	F	|	F	|	T
+f3(A,B)	F	|	F	|	T	|	F
+f4(A,B)	F	|	T	|	F	|	F
