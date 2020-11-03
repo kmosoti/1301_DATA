@@ -1,0 +1,5 @@
+Major School of Though in Probability Theory
+1) Bayesian
+2) Frequentist
+3) Classical
+4) Subjunctive

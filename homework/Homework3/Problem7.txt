@@ -1,0 +1,4 @@
+Types of Data:
+1) Discriptive 
+2) Predictive
+3) Prescriptive

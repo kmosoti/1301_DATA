@@ -1,0 +1,22 @@
+1) Name four major definitions of Probability.
+	- Classical
+	- Empirical
+	- Subjective
+	- Axiomatic
+
+2) Which school(s) of probability theory define(s) probability as degree of confidence?
+	- Frequentist/Classical
+	
+3) Which school(s) of probability theory allow incorporation of expert (prior) knowledge in scientific inference?
+	- Bayesion/Subjective
+	
+4) When data is scarce, which school of probability theory is the most useful for scientific inference?
+	- Subjective/Bayesion
+5) Name a prominent figure in each of the Frequentist and Bayesian schools of thought.
+	- Bayesian: Richard Cox
+	- Frequentist: Egon Pearson
+6) NAND equivalence.
+		(A↑A)↑(((A↑B)↑(A↑B))↑((A↑B)↑(A↑B)))= A
+		  A' ↑(		(A+B)   ↑	  (A+B)	  )= A
+		  A' ↑ ((A+B) ↑ (A+B)) = A
+		  A' ↑ ((A+B) ↑ (A+B)) = A

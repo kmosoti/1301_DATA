@@ -1,0 +1,24 @@
+TRUTH TABLE
+-----------------------------------
+A,B		TT	|	FF	|	FT	|	TF	
+-----------------------------------
+f1(A,B)	T	|	F	|	F	|	F
+f2(A,B)	F	|	F	|	F	|	T
+f3(A,B)	F	|	F	|	T	|	F
+f4(A,B)	F	|	T	|	F	|	F
+
+Given the above table we can assume the truth table for:
+F5(A,B) = F2(A,B) + F4(A,B)
+F6(A,B) = F1(A,B) + F3(A,B) + F4(A,B)
+
+TRUTH TABLE
+-----------------------------------
+A,B		TT	|	FF	|	FT	|	TF	
+-----------------------------------
+f1(A,B)	T	|	F	|	F	|	F
+f2(A,B)	F	|	F	|	F	|	T
+f3(A,B)	F	|	F	|	T	|	F
+f4(A,B)	F	|	T	|	F	|	F
+-----------------------------------
+f4(A,B)	F	|	T	|	F	|	T
+f4(A,B)	T	|	T	|	T	|	F
