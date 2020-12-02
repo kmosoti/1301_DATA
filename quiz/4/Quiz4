@@ -1,0 +1,58 @@
+Quiz 4 --
+
+1) I would go ahead and open the door I chose as it the notion correlation doesnt imply causation applies here.
+
+2) My lack of knowledge exists here. If I could know the odds of a goat behind a door, I could have a different answer.
+
+3) In the frequentist school of thought, the uncertainty is within the experiement. So I'd still choose the same.
+
+4) A) Area of the graph is = 1
+	B) Non negative
+	
+5) On a given day, the data would be discrete. Cumulative Distribution would suffice.
+
+6) Normal Distribution
+
+7) 1/36
+
+8) 3/6
+
+9) Cumulative Distribution
+
+10) Correlation does not neccessarily mean causation. Though they can exist at the same time.
+	 A lot of the time causation cannot be assumed from a correlation because too many factors are in play.
+	 For example, you started making your coffee with a new sweetner called XYZ. You observe that
+	 your rates of selling have skyrocketing. You assume that the use of XYZ has caused your sales to increase
+	 but the fact could be that it's the sweet taste that the customers like not neccessarily just XYZ.
+	
+11) Independece between variables cannot be assumed by correlation. Infact, as humans, we'd assume
+	 causation naturally. For example, you observe that over time women attending an event seem
+	 to be getting taller. You also observe that highheels over time are increasing in height.
+	 It's easy to see how you can't imply these variables to be independent.
+
+12) Aesthetics in data visualization are the features of a graphic representing data.
+	Exampls of these Aesthetics are as follows: Position, Size, Color, and line width.
+	
+13) Two Major Classes of Aesthetics:
+	1) Discrete Aesthetics
+	2) COntinuous
+	
+14) Types of Data:
+	 1) Quantitative - Ex. The weights of individual grapes
+	 2) Qualitative - Ex. Color of a set of cars.
+
+15) Factors
+
+16) Ordered Data: Average height of Hospital Buildings
+	Unordered Data: Average height of any structure
+
+17) Plots where the axis share the same time of measurement.
+
+18)
+
+19) Periodic Data
+
+20) ggplot2 hue: Data that has no intrinsic order
+	Heat: Temperture
+	Carto Earth: Present data to humans
+	Okabe Ito Accent: To highlight
