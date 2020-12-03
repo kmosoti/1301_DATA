@@ -1,0 +1,46 @@
+1)
+
+2) Normal Distribution
+
+3) 1/36
+
+4) 3/6
+
+5) Uniform Dispersion Chart.
+
+6) Correlation does not neccessarily mean causation. Though they can exist at the same time.
+	A lot of the time causation cannot be assumed from a correlation because too many factors are in play.
+	For example, you started making your coffee with a new sweetner called XYZ. You observe that
+	your rates of selling have skyrocketing. You assume that the use of XYZ has caused your sales to increase
+	but the fact could be that it's the sweet taste that the customers like not neccessarily just XYZ.
+	
+7) Independece between variables cannot be assumed by correlation. Infact, as humans, we'd assume
+	causation naturally. For example, you observe that over time women attending an event seem
+	to be getting taller. You also observe that highheels over time are increasing in height.
+	It's easy to see how you can't imply these variables to be independent.
+
+8) Aesthetics in data visualization are the features of a graphic representing data.
+	Exampls of these Aesthetics are as follows: Position, Size, Color, and line width.
+
+9) Two Major Classes of Aesthetics:
+	1) Discrete Aesthetics
+	2) COntinuous
+	
+10) Types of Data:
+	 1) Quantitative - Ex. The weights of individual grapes
+	 2) Qualitative - Ex. Color of a set of cars.
+	 
+11) Factors.
+
+12) Ordered Data: Average height of Hospital Buildings
+	Unordered Data: Average height of any structure
+	
+13) The independent/dependent variables should be on axies with the same units and grid size
+
+15)	Data that is periodic in nature
+
+16) ColorBrewerBlues
+	Heat
+	Carto Earth
+	
+17) Should be a bar graph or scatter plot. Difficult to visual the data.
