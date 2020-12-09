@@ -1,0 +1,39 @@
+1) I switch doors as now my chance of picking the correct door is 11% differing from the 10% before the goat door reveal. So Yes, my odds of picking the corret door would increase
+
+2) a, d, g, i
+
+3A) Assembly 
+
+3B) No. It's assembled.
+
+4) Matlab's ancestor is C++, while Python's is C.
+
+5) The uncertainty is inherent to the experiment and can't be reduced to anything else as it is aleatoric.
+
+6) - Normal Distribution (Gaussian)
+   - Poisson Distribution
+   
+7) 1/6 * 2/6 = 2/36
+
+8) - Classical
+   - Bayesian
+   - Frequentist
+   - Propensity/Axiomatic
+   
+9) Bayesian as when data is scarse complicated measures are taken into place to make up for the lack of data.
+
+10) - Computational Physics - Uncertainty Quantification
+	- Computational Science - Machine Learning/Optimization
+	- Biomedical - Simulation of prosthetics
+
+11) A /down B = A' ^ B'
+	A /down B = (A /down A) ^  /down B)
+	A /down B = (A /down B) ^ (B /down A) --Since the should all equal false
+	A /down B = (A + B)' -- CHECK
+	
+12) Qualitative - Used to distinguish items without an intrinsic order
+	Sequential - Used to represent data values with a uniform relationship
+	Diverging - To show the deviation of data values with at least two directions from a mid point.
+	Accent - For a dataset which you need to mark key information and distinguish it from the rest of the set of data.
+	
+13) In the case someone is color blind (RED-GREEN which is popular). They would not be completely lost. Use colors that are direct opposites on the spectrum of colors.
